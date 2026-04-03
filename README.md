@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Interested in web development and modern technologies<br><br>🌐 Experience with HTML, CSS, JavaScript, and basic PHP/MySQL<br><br>🐍 Currently learning and practicing Python<br><br>🧠 Always eager to learn new tools and improve skills<br><br>📈 Focused on building real-world projects<br><br>🤝 Comfortable working both independently and in a team
+💻 Interested in web development and modern technologies<br><br>🌐 Experience with HTML, CSS, JavaScript, and basic PHP/MySQL<br><br>🐍 "Python developer with 4+ real-world projects including SkillSwap — Pakistan's first student skill exchange platform"<br><br>🧠 Always eager to learn new tools and improve skills<br><br>📈 Focused on building real-world projects<br><br>🤝 Comfortable working both independently and in a team
 
 
 ## 🌐 Socials:
